@@ -1,1 +1,1 @@
-console.log("flag{snnapsux4real}")
+console.log("flag{hitoribocchi}")
