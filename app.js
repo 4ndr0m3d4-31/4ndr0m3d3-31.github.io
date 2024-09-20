@@ -1,1 +1,1 @@
-console.log("flag{yerAGenius}")
+console.log("flag{snnapsux4real}")
